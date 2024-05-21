@@ -6,4 +6,4 @@ It's simple: just open our Telegram MiniApp, choose your new green friend, and w
 
 – _And that’s it?_
 
-Of course not! You can also plant exclusive trees in parks with your plaque, fruit trees in plantations that will even bring profit, as well as plant trees just by playing games! And our promotions and events won't let you get bored. Doing good for the planet is easy, join us! 🌿
+Of course not! You can also plant exclusive trees in parks with your plaque, fruit trees in plantations that will even bring profit, and even plant trees just by playing games! And our promotions and events won't let you get bored. Doing good for the planet is easy, join us! 🌿
