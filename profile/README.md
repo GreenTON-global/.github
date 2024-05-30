@@ -1,3 +1,7 @@
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GreenTON_global)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/greenton.global)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/GreenTON_global)
+
 # GreenTON
 ### A little bit about us
 – _How to plant a tree without a shovel? You don't know? Well, we do!_
