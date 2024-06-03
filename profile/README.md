@@ -11,3 +11,8 @@ It's simple: just open our Telegram MiniApp, choose your new green friend, and w
 – _And that’s it?_
 
 Of course not! You can also plant exclusive trees in parks with your plaque, fruit trees in plantations that will even bring profit, and even plant trees just by playing games! And our promotions and events won't let you get bored. Doing good for the planet is easy, join us! 🌿
+
+### Our project
+We admire the mission of the Telegram and TON ecosystem, and this project was created as part of the Open League Hackathon to become part of this wonderful ecosystem and contribute to the mass adoption of blockchain technologies
+
+We are pleased to present to your attention the entire project code: smart contracts, Telegram MiniApp, website, backend, Telegram bots. Feel free to rewiew, contribute and collaborate 
