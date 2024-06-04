@@ -2,13 +2,16 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/greenton.global)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/GreenTON_global)
 
-<!-- 
+<!--
 make smaller and in center
-<div display= "flex" justify-content= "center">
- <img src="https://github.com/GreenTON-global/.github/assets/93512736/26f0e537-ae4d-46bb-a181-740ea2ef5607" width="200" height="100" margin-left="auto" margin-right="auto">
-</div> -->
+<div style="text-align: center;">
+ <div style="margin: 0 auto;">
+  <img src="https://github.com/GreenTON-global/.github/assets/93512736/26f0e537-ae4d-46bb-a181-740ea2ef5607" width="200" height="100" >
+ </div> 
+</div>
+-->
 
-![Group 36](https://github.com/GreenTON-global/.github/assets/93512736/26f0e537-ae4d-46bb-a181-740ea2ef5607)
+![Group 36](https://github.com/GreenTON-global/.github/assets/93512736/26f0e537-ae4d-46bb-a181-740ea2ef5607) 
 
 
 # GreenTON
