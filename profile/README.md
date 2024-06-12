@@ -11,8 +11,7 @@ make smaller and in center
 </div>
 -->
 
-![Group 36](https://github.com/GreenTON-global/.github/assets/93512736/26f0e537-ae4d-46bb-a181-740ea2ef5607) 
-
+![greenton-logo-full](https://github.com/GreenTON-global/.github/assets/60035004/33a5bbb8-ebd7-4224-a316-7c267f2231bd)
 
 # GreenTON
 ### A little bit about us
