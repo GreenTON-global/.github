@@ -17,7 +17,6 @@ Of course not! You can also plant exclusive trees in parks with your plaque, fru
 ### Our official products
 * [Telergam Bot and MiniApp](https://t.me/GreenTonBot) — here you can plant trees and see your forest (currently testnet version)
 * [Website](https://www.greenton.org/) — if you want to find out more information about us, then go here
-* [Business Telegram Bot](https://t.me/GreenTonBusinessBot) — do you run an organization planting trees? If yes, we are looking forward to seeing you here to become partners!
 
 ### Postscriptum
 We admire the mission of the Telegram and TON ecosystem, and this project was created as part of the Open League Hackathon to become part of this wonderful ecosystem and contribute to the mass adoption of blockchain technologies
